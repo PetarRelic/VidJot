@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
+  "author": "Petar Relic",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
